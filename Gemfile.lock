@@ -86,6 +86,8 @@ GEM
       activesupport (>= 3.2)
     erubi (1.7.1)
     execjs (2.7.0)
+    factory_bot (4.10.0)
+      activesupport (>= 3.0.0)
     ffi (1.9.23)
     formtastic (3.1.5)
       actionpack (>= 3.2.13)
@@ -251,6 +253,7 @@ DEPENDENCIES
   countries
   country_select
   enumerize
+  factory_bot
   formtastic (~> 3.0)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
